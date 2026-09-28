@@ -3,7 +3,7 @@
 A modern, responsive personal portfolio website built with **React.js** and **Vite**.
 
 ## 🚀 Live Demo
-[View Live](https://your-portfolio.vercel.app)
+[View Live](https://portfolio-tan-mu-49.vercel.app/)
 
 ## ✨ Features
 - Responsive design (mobile, tablet, desktop)
